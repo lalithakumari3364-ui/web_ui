@@ -1,6 +1,8 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 
-  const API_URL = 'https://latestnews24x7.com/backend2/api';
+  // const API_URL = 'https://latestnews24x7.com/backend2/api';
+      const API_URL = 'https://web-server-fj1o.onrender.com/backend2/api';
+
 
   // SVG Icons
   const UserIcon = () => (
